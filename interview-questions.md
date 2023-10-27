@@ -30,8 +30,8 @@ Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. DOM: 
+1. DOM: Document Object Model, everything you see on screen
 
-2. Object-oriented programming:
+2. Object-oriented programming: a way of organizing code to have its own unique properties and behaviors and being able to reuse it. 
 
-3. Ruby:
+3. Ruby: an open source, object oriented programming language
